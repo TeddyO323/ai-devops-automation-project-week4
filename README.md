@@ -1,4 +1,4 @@
-# AI for Software Engineering Assignment
+# AI Devops Automation Project
 **Theme:** Building Intelligent Software Solutions 💻🤖
 
 ---
@@ -6,7 +6,7 @@
 ## Repository Structure
 
 ```
-ai-software-engineering-assignment/
+ai-devops-automation-project-week4/
 │
 ├── LICENSE
 ├── README.md
