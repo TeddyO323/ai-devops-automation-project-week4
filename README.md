@@ -5,11 +5,9 @@
 
 Perfect — here’s the **rewritten “Repository Structure” section** of your README with **clickable links** for every file and folder:
 
-```markdown
 ## Repository Structure
 
 ```
-
 ai-software-engineering-assignment/
 │
 ├── [LICENSE](LICENSE)
@@ -42,7 +40,6 @@ ai-software-engineering-assignment/
 └── bonus_innovation/
 └── [proposal.pdf](bonus_innovation/proposal.pdf)
 
-```
 ```
 
 
@@ -154,3 +151,23 @@ pip install pandas scikit-learn joblib matplotlib
 
 ---
 
+
+├── part2_practical/
+│   ├── task1_code_completion/
+│   │   ├── [copilot_suggestion.py](part2_practical/task1_code_completion/copilot_suggestion.py)
+│   │   ├── [manual_implementation.py](part2_practical/task1_code_completion/manual_implementation.py)
+│   │   ├── [comparison.md](part2_practical/task1_code_completion/comparison.md)
+│   │   └── [screenshots/](part2_practical/task1_code_completion/screenshots/)
+│
+│   ├── task2_automated_testing/
+│   │   ├── [src/](part2_practical/task2_automated_testing/src/)
+│   │   ├── [tests/](part2_practical/task2_automated_testing/tests/)
+│   │   ├── [requirements.txt](part2_practical/task2_automated_testing/requirements.txt)
+│   │   └── [README.md](part2_practical/task2_automated_testing/README.md)
+│
+│   └── task3_predictive_analytics/
+│       ├── [notebook.ipynb](part2_practical/task3_predictive_analytics/notebook.ipynb)
+│       ├── [report.md](part2_practical/task3_predictive_analytics/report.md)
+│       ├── [data/breast_cancer.csv](part2_practical/task3_predictive_analytics/data/breast_cancer.csv)
+│       ├── [models/model.pkl](part2_practical/task3_predictive_analytics/models/model.pkl)
+│       └── [artifacts/metrics.json](part2_practical/task3_predictive_analytics/artifacts/metrics.json)
