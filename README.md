@@ -3,42 +3,46 @@
 
 ---
 
+Perfect — here’s the **rewritten “Repository Structure” section** of your README with **clickable links** for every file and folder:
+
 ## Repository Structure
+
+```
 
 ai-software-engineering-assignment/
 │
-├── LICENSE
-├── README.md
+├── [LICENSE](LICENSE)
+├── [README.md](README.md)
 ├── part1_theoretical/
-│   └── Part1_Theoretical_Analysis.pdf
+│   └── [Part1_Theoretical_Analysis.pdf](part1_theoretical/Part1_Theoretical_Analysis.pdf)
 │
 ├── part2_practical/
 │   ├── task1_code_completion/
-│   │   ├── copilot_suggestion.py
-│   │   ├── manual_implementation.py
-│   │   ├── comparison.md
-│   │   └── screenshots/
+│   │   ├── [copilot_suggestion.py](part2_practical/task1_code_completion/copilot_suggestion.py)
+│   │   ├── [manual_implementation.py](part2_practical/task1_code_completion/manual_implementation.py)
+│   │   ├── [comparison.md](part2_practical/task1_code_completion/comparison.md)
+│   │   └── [screenshots/](part2_practical/task1_code_completion/screenshots/)
 │   │
 │   ├── task2_automated_testing/
-│   │   ├── src/
-│   │   ├── tests/
-│   │   ├── requirements.txt
-│   │   └── README.md
+│   │   ├── [src/](part2_practical/task2_automated_testing/src/)
+│   │   ├── [tests/](part2_practical/task2_automated_testing/tests/)
+│   │   ├── [requirements.txt](part2_practical/task2_automated_testing/requirements.txt)
+│   │   └── [README.md](part2_practical/task2_automated_testing/README.md)
 │   │
 │   └── task3_predictive_analytics/
-│       ├── notebook.ipynb
-│       ├── report.md
-│       ├── data/breast_cancer.csv
-│       ├── models/model.pkl
-│       └── artifacts/metrics.json
+│       ├── [notebook.ipynb](part2_practical/task3_predictive_analytics/notebook.ipynb)
+│       ├── [report.md](part2_practical/task3_predictive_analytics/report.md)
+│       ├── [data/breast_cancer.csv](part2_practical/task3_predictive_analytics/data/breast_cancer.csv)
+│       ├── [models/model.pkl](part2_practical/task3_predictive_analytics/models/model.pkl)
+│       └── [artifacts/metrics.json](part2_practical/task3_predictive_analytics/artifacts/metrics.json)
 │
 ├── part3_ethics/
-│   └── ethical_reflection.md
+│   └── [ethical_reflection.md](part3_ethics/ethical_reflection.md)
 └── bonus_innovation/
-└── proposal.pdf
+└── [proposal.pdf](bonus_innovation/proposal.pdf)
 
 
-
+```
 ---
 
 ## Part 1: Theoretical Analysis
