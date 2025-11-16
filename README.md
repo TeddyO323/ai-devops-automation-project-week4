@@ -5,6 +5,7 @@
 
 Perfect — here’s the **rewritten “Repository Structure” section** of your README with **clickable links** for every file and folder:
 
+```markdown
 ## Repository Structure
 
 ```
@@ -41,8 +42,10 @@ ai-software-engineering-assignment/
 └── bonus_innovation/
 └── [proposal.pdf](bonus_innovation/proposal.pdf)
 
-
 ```
+```
+
+
 ---
 
 ## Part 1: Theoretical Analysis
